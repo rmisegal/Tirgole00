@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('How are you?')
     print_hi('Where do you live?')
+    print_hi('What is your name?')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

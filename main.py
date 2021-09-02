@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('How are you?')
     print_hi('Where do you live?')
     print_hi('What is your name?')
+    print_hi('What is your height?')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

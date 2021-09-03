@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('Where do you live?')
     print_hi('What is your name?')
     print_hi('What is your height?')
+    print_hi('I want to update from github')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
